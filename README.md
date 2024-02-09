@@ -18,14 +18,14 @@
 ![Static Badge](https://img.shields.io/badge/Java-%23FFCD12?style=plastic&logo=Java)
 ![Static Badge](https://img.shields.io/badge/Spring-%23E4F7BA?style=plastic&logo=spring&logoColor=%236DB33F)
 ![Static Badge](https://img.shields.io/badge/JPA-%23FAF4C0?style=plastic&logo=spring&logoColor=%236DB33F)
-![Static Badge](https://img.shields.io/badge/Security-%23EAEAEA?style=plastic&logo=springsecurity&logoColor=%236DB33F)
+<!-- ![Static Badge](https://img.shields.io/badge/Security-%23EAEAEA?style=plastic&logo=springsecurity&logoColor=%236DB33F)-->
 
 ![Static Badge](https://img.shields.io/badge/MySQL-%23FFFFFF?style=plastic&logo=mysql&logoColor=%234479A1) 
 ![Static Badge](https://img.shields.io/badge/GIt-%23FFFFFF?style=plastic&logo=git&logoColor=%23F05032)
  ![Static Badge](https://img.shields.io/badge/GItHub-%23FFFFFF?style=plastic&logo=github&logoColor=%23181717) 
  
- ![Static Badge](https://img.shields.io/badge/Docker-%23E6FFFF?style=plastic&logo=docker&logoColor=%232496ED)
- ![Static Badge](https://img.shields.io/badge/AWS-%23D9E5FF?style=plastic&logo=amazonaws&logoColor=%23232F3E)
+<!-- ![Static Badge](https://img.shields.io/badge/Docker-%23E6FFFF?style=plastic&logo=docker&logoColor=%232496ED)
+ ![Static Badge](https://img.shields.io/badge/AWS-%23D9E5FF?style=plastic&logo=amazonaws&logoColor=%23232F3E)-->
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj9080)](https://solved.ac/mj9080)
 
